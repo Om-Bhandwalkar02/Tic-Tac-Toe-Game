@@ -1,0 +1,30 @@
+.col{
+    height: 70px;
+    width: 70px;
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    font-family: monospace;
+
+    cursor: pointer;
+}
+
+.row{
+    display: flex;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+h1{
+    text-align: center;
+
+}
